@@ -1,0 +1,152 @@
+{
+  "hiragana": [
+    {"character": "あ", "romaji": "a", "unlocked": true, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "い", "romaji": "i", "unlocked": true, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "う", "romaji": "u", "unlocked": true, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "え", "romaji": "e", "unlocked": true, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "お", "romaji": "o", "unlocked": true, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "か", "romaji": "ka", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "き", "romaji": "ki", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "く", "romaji": "ku", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "け", "romaji": "ke", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "こ", "romaji": "ko", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "さ", "romaji": "sa", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "し", "romaji": "shi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "す", "romaji": "su", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "せ", "romaji": "se", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "そ", "romaji": "so", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "た", "romaji": "ta", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ち", "romaji": "chi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "つ", "romaji": "tsu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "て", "romaji": "te", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "と", "romaji": "to", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "な", "romaji": "na", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "に", "romaji": "ni", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ぬ", "romaji": "nu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ね", "romaji": "ne", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "の", "romaji": "no", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "は", "romaji": "ha", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ひ", "romaji": "hi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ふ", "romaji": "fu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "へ", "romaji": "he", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ほ", "romaji": "ho", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "ま", "romaji": "ma", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "み", "romaji": "mi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "む", "romaji": "mu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "め", "romaji": "me", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "も", "romaji": "mo", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "や", "romaji": "ya", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ゆ", "romaji": "yu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "よ", "romaji": "yo", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "ら", "romaji": "ra", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "り", "romaji": "ri", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "る", "romaji": "ru", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "れ", "romaji": "re", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ろ", "romaji": "ro", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "わ", "romaji": "wa", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "を", "romaji": "wo", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ん", "romaji": "n", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0}
+  ],
+  
+    "katakana": [
+    {"character": "ア", "romaji": "a", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "イ", "romaji": "i", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ウ", "romaji": "u", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "エ", "romaji": "e", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "オ", "romaji": "o", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "カ", "romaji": "ka", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "キ", "romaji": "ki", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ク", "romaji": "ku", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ケ", "romaji": "ke", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "コ", "romaji": "ko", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "サ", "romaji": "sa", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "シ", "romaji": "shi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ス", "romaji": "su", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "セ", "romaji": "se", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ソ", "romaji": "so", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "タ", "romaji": "ta", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "チ", "romaji": "chi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ツ", "romaji": "tsu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "テ", "romaji": "te", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ト", "romaji": "to", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "ナ", "romaji": "na", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ニ", "romaji": "ni", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ヌ", "romaji": "nu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ネ", "romaji": "ne", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ノ", "romaji": "no", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "ハ", "romaji": "ha", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ヒ", "romaji": "hi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "フ", "romaji": "fu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ヘ", "romaji": "he", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ホ", "romaji": "ho", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "マ", "romaji": "ma", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ミ", "romaji": "mi", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ム", "romaji": "mu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "メ", "romaji": "me", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "モ", "romaji": "mo", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "ヤ", "romaji": "ya", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ユ", "romaji": "yu", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ヨ", "romaji": "yo", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "ラ", "romaji": "ra", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "リ", "romaji": "ri", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ル", "romaji": "ru", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "レ", "romaji": "re", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ロ", "romaji": "ro", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    
+    {"character": "ワ", "romaji": "wa", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ヲ", "romaji": "wo", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0},
+    {"character": "ン", "romaji": "n", "unlocked": false, "timesAnswered": 0, "timesCorrect": 0}
+  ],
+  
+  "gameSettings": {
+    "startingHiragana": ["あ", "い", "う", "え", "お"],
+    "charactersPerLevel": 5,
+    "masteryThreshold": 0.8,
+    "minTimesAnswered": 5,
+    "experiencePerCorrect": 10,
+    "experiencePerIncorrect": 2,
+    "damagePerCorrect": 15,
+    "damagePerIncorrect": 10
+  },
+  
+  "enemies": [
+    {
+      "name": "Kana Slime",
+      "health": 50,
+      "attack": 5,
+      "level": 1,
+      "experienceReward": 50
+    },
+    {
+      "name": "Hiragana Spirit",
+      "health": 75,
+      "attack": 8,
+      "level": 2,
+      "experienceReward": 75
+    },
+    {
+      "name": "Katakana Ghost",
+      "health": 100,
+      "attack": 12,
+      "level": 3,
+      "experienceReward": 100
+    }
+  ]
+}
